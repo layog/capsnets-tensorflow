@@ -2,3 +2,5 @@ tensorflow-gpu
 numpy
 matplotlib
 ipykernel
+scikit-image
+
